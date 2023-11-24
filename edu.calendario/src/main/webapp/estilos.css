@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+.tabla__febrero {
+	border: solid black;
+	border-collapse: collapse;
+	border-top:rgb(233, 233, 233);
+}
+.febrero {
+	font-family:verdana;
+	text-align: center;
+	background-color: rgb(233, 233, 233);
+	border-right: black 3px solid;
+	border-left: black 3px solid;	
+	border-top: black 3px solid;
+}
+.anyo {
+	font-family:verdana;
+	background-color:rgb(233, 233, 233);
+	border-right: black 3px solid;
+	border-left: black 3px solid;
+
+}
+.lunes {
+	background-color: rgb(233, 233, 233);
+}
+.miercoles {
+	background-color: rgb(233, 233, 233);
+}
+.viernes {
+	background-color: rgb(233, 233, 233);
+}
+.domingo {
+	background-color: rgb(233, 233, 233);
+}
+.numeros{
+	font-family: Verdana;
+}
+.tabla__junio{
+	border: black 1px solid;
+	border-top: none;
+	border-collapse: collapse;
+	word-spacing: 20px;
+	text-align: center;
+	
+}
+.junio{
+	color: white;
+	background-color: black;
+	font-family: Verdana;
+	border: black 1px solid;
+	border-collapse: collapse;
+	word-spacing: 5px;
+	text-align: center;
+}
+.anyo2{
+	font-family: Verdana;
+	color: white;
+	background-color: black;
+}
+.numeros2{
+	border: black 1px solid;
+	font-family: Verdana;
+	width: 200px;
+}
+.lunes2{
+	border-right:black 1px solid ;
+}
+.martes2{
+	border-right:black 1px solid ;
+}
+.miercoles2{
+	border-right:black 1px solid ;
+	border-top: none;
+}
+.jueves2{
+	border-right:black 1px solid ;
+	border-top: none;
+}
+.viernes2{
+	border-right:black 1px solid ;
+	border-bottom: none;
+}
+.sabado2{
+	border-right:black 1px solid ;
+	background-color: rgb(192, 192, 192);
+}
+.domingo2{
+	background-color: rgb(192, 192, 192);
+}
+
+.tabla__agosto{
+	border: solid black 2px;
+	border-collapse: collapse;
+	text-align: center;
+}
+.Agosto{
+	background-color: orange;
+}
+.numeros3{
+	border:solid black 2px;
+	border-right: solid black 2px;
+}
+.numeros33{
+	background-color: rgb(255, 158, 121);
+}
+.martes3{
+	background-color: rgb(255, 158, 121);
+}
+.jueves3{
+	background-color: rgb(255, 158, 121);
+}
+.sabado3{
+	background-color: rgb(255, 158, 121);
+}
